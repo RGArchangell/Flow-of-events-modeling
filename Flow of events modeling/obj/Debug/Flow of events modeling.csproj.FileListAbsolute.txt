@@ -1,0 +1,10 @@
+C:\Users\rgarc\source\repos\Flow of events modeling\Flow of events modeling\bin\Debug\Flow of events modeling.exe.config
+C:\Users\rgarc\source\repos\Flow of events modeling\Flow of events modeling\bin\Debug\Flow of events modeling.exe
+C:\Users\rgarc\source\repos\Flow of events modeling\Flow of events modeling\bin\Debug\Flow of events modeling.pdb
+C:\Users\rgarc\source\repos\Flow of events modeling\Flow of events modeling\obj\Debug\Flow of events modeling.csprojAssemblyReference.cache
+C:\Users\rgarc\source\repos\Flow of events modeling\Flow of events modeling\obj\Debug\Flow_of_events_modeling.Form1.resources
+C:\Users\rgarc\source\repos\Flow of events modeling\Flow of events modeling\obj\Debug\Flow_of_events_modeling.Properties.Resources.resources
+C:\Users\rgarc\source\repos\Flow of events modeling\Flow of events modeling\obj\Debug\Flow of events modeling.csproj.GenerateResource.cache
+C:\Users\rgarc\source\repos\Flow of events modeling\Flow of events modeling\obj\Debug\Flow of events modeling.csproj.CoreCompileInputs.cache
+C:\Users\rgarc\source\repos\Flow of events modeling\Flow of events modeling\obj\Debug\Flow of events modeling.exe
+C:\Users\rgarc\source\repos\Flow of events modeling\Flow of events modeling\obj\Debug\Flow of events modeling.pdb
